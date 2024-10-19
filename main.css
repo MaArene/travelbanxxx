@@ -1,0 +1,108 @@
+figure.contactus {
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: Arial, sans-serif;
+        background: center fixed;
+        background-size: cover;
+        color: white;
+        text-align: center;
+    }
+
+}
+
+figure.contact {
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: Arial, sans-serif;
+        background: center fixed;
+        background-size: cover;
+        color: white;
+        text-align: center;
+    }
+    .container {
+        background-color: rgba(0, 0, 0, 0.205);
+        padding: 20px;
+        margin: 50px auto;
+        width: 90%;
+        border-radius: 15px;
+        margin-bottom: 650px ;
+    }
+    h1 {
+        font-size: 3em;
+        margin-bottom: 20px;
+        color: antiquewhite;
+        text-align: center;
+    }
+    p {
+        font-size: 1.2em;
+        line-height: 1.5em;
+        margin-bottom: 20px;
+        color: azure;
+        text-align: center;
+    }
+}
+.s-footer{
+    background-color: rgba(57, 63, 240, 0.799);
+    padding: 20px;
+    margin: 60px auto;
+    width: 100%;
+    border-radius: 20px;
+    margin-bottom: 0;
+}
+.col-lg-6 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 60%;
+    flex: 0 0 50%;
+    max-width: 50%
+}
+.col-lg-4 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 33.333333%;
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%
+}
+.nav-footer {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding-left: 20;
+    margin-bottom: 20;
+    list-style: none;
+    flex-direction: column;
+}
+.font{
+    font-size: 20px;
+    font-style: normal;
+    color: beige;
+    text-align: right;
+    margin-right: 15px auto;
+    list-style: none;
+}
+address {
+    margin-bottom: 1rem;
+    font-style: normal;
+    line-height: inherit
+}
+.container1 {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.row {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px auto;
+    margin-left: -15px auto;
+    position: relative
+}
+    
+

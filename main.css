@@ -138,6 +138,14 @@ label.star:before {
   content: '\f006';
   font-family: FontAwesome;
 }
+.font1{
+    font-size: 35px;
+    font-style: normal;
+    color: beige;
+    text-align: center;
+    margin-right: 15px auto;
+    font-family: Arial, sans-serif;
+}
 
     
 
